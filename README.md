@@ -7,9 +7,9 @@ I assumed the role of a Data Scientist working for a startup intending to compet
 The main goal is predict if the first stage of the SpaceX Falcon 9 rocket will land successfully, with the help of Data Science findings and models, to make more informed bids against SpaceX for a rocket launch.  
 
 
-## Files in the repository
+## Files in this repository
 
 * Jupiter Notebooks, including:
-  -- 
+  *     
 
-* PowerPoint Report Presentation
+* PowerPoint Report Presentation in PDF
