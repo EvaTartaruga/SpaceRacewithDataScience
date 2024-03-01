@@ -12,5 +12,6 @@ The main goal is predict if the first stage of the SpaceX Falcon 9 rocket will l
 * Jupyter Notebooks, including:
   *  A-Spacex-data-collection-api.ipynb
   *  B-Webscraping.ipynb
+  *  C-spacex-Data wrangling.ipynb
 
 * PowerPoint Report Presentation in PDF
