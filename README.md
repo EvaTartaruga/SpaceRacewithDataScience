@@ -13,6 +13,8 @@ The main goal is predict if the first stage of the SpaceX Falcon 9 rocket will l
   *  A-Spacex-data-collection-api.ipynb
   *  B-Webscraping.ipynb
   *  C-spacex-Data wrangling.ipynb
+  *  D-EDA-SQL.ipynb
   *  F-EDA_data_visualization.ipynb
+  *  
 
 * PowerPoint Report Presentation in PDF
