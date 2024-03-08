@@ -17,5 +17,6 @@ The main goal is predict if the first stage of the SpaceX Falcon 9 rocket will l
   *  F-EDA_data_visualization.ipynb
   *  G-Folium_Analysis_launch_site_location
   *  H-Interactive Dashboard with Ploty Dash
+  *  I-SpaceX_Machine_Learning_Prediction
 
 * PowerPoint Report Presentation in PDF
